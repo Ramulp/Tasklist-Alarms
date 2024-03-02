@@ -1,0 +1,17 @@
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\Tasklist Alarms.exe.config
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\Tasklist Alarms.exe
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\Tasklist Alarms.pdb
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\Newtonsoft.Json.dll
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\System.ValueTuple.dll
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\Newtonsoft.Json.xml
+D:\%% Programming projects\Tasklist Alarms\bin\Debug\System.ValueTuple.xml
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist_Alarms.Classes.ControlAlarmTask.resources
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist_Alarms.Classes.ControlTaskList.resources
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist_Alarms.MainForm.resources
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist_Alarms.Properties.Resources.resources
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist Alarms.csproj.GenerateResource.cache
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist Alarms.csproj.CoreCompileInputs.cache
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist Alarms.csproj.CopyComplete
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist Alarms.exe
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist Alarms.pdb
+D:\%% Programming projects\Tasklist Alarms\obj\Debug\Tasklist Alarms.csproj.AssemblyReference.cache
